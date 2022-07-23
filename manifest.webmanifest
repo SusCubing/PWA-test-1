@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "Test for PWAs",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/fox-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "random app",
+  "short_name": "apps yay",
+  "start_url": "index.html"
+}
